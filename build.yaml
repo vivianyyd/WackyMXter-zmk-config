@@ -1,3 +1,3 @@
-board: [seeeduino_xiao_ble]
+board: [xiao_ble]
 shield: [wackymxter_left, wackymxter_right]
 
