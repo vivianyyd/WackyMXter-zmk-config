@@ -1,4 +1,4 @@
-if WACKYMXTER_RIGHT
+if WACKYMXTER_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "WackyMXter"
