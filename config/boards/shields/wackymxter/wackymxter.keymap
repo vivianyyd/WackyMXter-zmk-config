@@ -18,7 +18,7 @@
                 &kp TAB        &kp Q       &kp W       &kp E       &kp R      &kp T          &kp LBKT      &kp BACKSLASH  &kp P       &kp O       &kp I       &kp U      &kp Y          &kp RBKT
                 &kp BSPC       &kp A       &kp S       &kp D       &kp F      &kp G          &kp MINUS     &kp SQT        &kp SEMI    &kp L       &kp K       &kp J      &kp H          &kp EQUAL
                 &kp LSHFT      &kp Z       &kp X       &kp C       &kp V      &kp B          &kp ENTER     &kp RSHFT      &kp SLASH   &kp PERIOD  &kp COMMA   &kp M      &kp N          &kp RCTRL
-                &kp LCTRL      &kp LGUI    &kp LGUI    &kp LALT    &kp SPACE  &lt 1 ESC                    &kp ENTER      &kp UP      &kp DOWN    &kp LEFT    &kp SPACE  &kp ESC
+                &kp LCTRL      &kp LGUI    &kp LGUI    &kp LALT    &kp SPACE  &lt 1 ESC                    &kp ENTER      &kp UP      &kp MINUS   &kp DEL     &kp SPACE  &kp ESC
                 &kp C_MUTE     &kp LGUI
             >;
 
