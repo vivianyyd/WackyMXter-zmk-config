@@ -15,10 +15,10 @@
             label= "BASE";
             bindings = <
                 &kp GRAVE      &kp N1      &kp N2      &kp N3      &kp N4     &kp N5         &kp HOME      &kp BSPC       &kp N0      &kp N9      &kp N8      &kp N7     &kp N6         &kp END  
-                &kp TAB        &kp Q       &kp W       &kp E       &kp R      &kp T          &kp LBKT      &kp BACKSLASH  &kp P       &kp O       &kp I       &kp U      &kp Y          &kp RBKT
-                &kp BSPC       &kp A       &kp S       &kp D       &kp F      &kp G          &kp MINUS     &kp SQT        &kp SEMI    &kp L       &kp K       &kp J      &kp H          &kp EQUAL
-                &kp LSHFT      &kp Z       &kp X       &kp C       &kp V      &kp B          &kp ENTER     &kp RSHFT      &kp SLASH   &kp PERIOD  &kp COMMA   &kp M      &kp N          &kp RCTRL
-                &kp LCTRL      &kp LGUI    &kp LGUI    &kp LALT    &kp SPACE  &lt 1 ESC                    &kp ENTER      &kp UP      &kp MINUS   &kp DEL     &kp SPACE  &kp ESC
+                &kp TAB        &kp Q       &kp W       &kp E       &kp R      &kp T          &kp MINUS     &kp BACKSLASH  &kp P       &kp O       &kp I       &kp U      &kp Y          &kp LBKT
+                &mo 1          &kp A       &kp S       &kp D       &kp F      &kp G          &kp EQUAL     &kp SQT        &kp SEMI    &kp L       &kp K       &kp J      &kp H          &kp DEL
+                &kp LSHFT      &kp Z       &kp X       &kp C       &kp V      &kp B          &kp CAPS      &kp RSHFT      &kp SLASH   &kp PERIOD  &kp COMMA   &kp M      &kp N          &kp PSCRN
+                &kp LCTRL      &kp C_MUTE  &kp LGUI    &kp LALT    &kp BSPC   &lt 1 ESC                    &kp PG_DN      &kp RCTRL   &kp RALT    &kp PG_UP   &kp SPACE  &kp ENTER
                 &kp C_MUTE     &kp LGUI
             >;
 
@@ -29,9 +29,9 @@
         bluetooth_layer {
             label= "FUNCTION";
             bindings = <
-                &kp TILDE      &kp F1      &kp F2      &kp F3      &kp F4     &kp F5         &kp HOME      &kp BSPC       &kp F10     &kp F9      &kp F8      &kp F7     &kp F6         &kp END  
-                &kp TAB        &kp Q       &kp W       &kp E       &kp R      &kp T          &kp LBKT      &kp BACKSLASH  &kp P       &kp N9      &kp N8      &kp N7     &kp Y          &kp RBKT
-                &kp CAPS       &kp A       &kp S       &kp D       &kp F      &kp G          &kp KP_MINUS  &kp SQT        &kp SEMI    &kp N6      &kp N5      &kp N4     &kp H          &kp EQUAL
+                &kp C_BKLT_TOG &kp F1      &kp F2      &kp F3      &kp F4     &kp F5         &kp F11       &kp F20        &kp F10     &kp F9      &kp F8      &kp F7     &kp F6         &kp F12
+                &kp TAB       &kp C_MUTE  &kp C_VOL_DN &kp C_VOL_UP &kp F20   &kp C_BRI_DN   &kp C_BRI_UP  &kp BACKSLASH  &kp P       &kp N9      &kp N8      &kp N7     &kp Y          &kp RBKT
+                &kp CAPS       &kp A       &kp S       &kp D       &kp F      &kp G          &kp KP_MINUS  &kp SQT        &kp SEMI    &kp RIGHT   &kp UP      &kp DOWN   &kp LEFT       &kp EQUAL
                 &kp LSHFT      &kp Z       &kp X       &kp C       &kp V      &kp B          &bt BT_CLR    &kp RSHFT      &kp SLASH   &kp N3      &kp N2      &kp N1     &kp N          &kp BSPC
                 &kp LCTRL      &kp LGUI    &kp LGUI    &out OUT_USB    &out OUT_BLE &kp ESC                &bt BT_NXT     &kp UP      &kp DOWN    &bt BT_PRV  &kp SPACE  &kp ESC 
                 &kp C_MUTE     &kp LGUI
