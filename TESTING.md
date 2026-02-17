@@ -30,7 +30,7 @@ This guide helps diagnose and fix issues where one side of the split keyboard ma
 **Solution**:
 ```bash
 # Trigger a clean build
-1. Go to Actions tab: https://github.com/YOUR_USERNAME/WackyMXter-zmk-config/actions
+1. Go to Actions tab: https://github.com/vivianyyd/WackyMXter-zmk-config/actions
 2. Click "Build" workflow
 3. Click "Run workflow" → "Run workflow" 
 4. Wait for build to complete (usually 5-10 minutes)
@@ -97,7 +97,7 @@ wackymxter_right-seeeduino_xiao_ble-zmk.uf2 → RIGHT side
 ## Key Code Reference
 
 ### Standard Keys Used in WackyMXter
-- `MINUS`: The minus/underscore key (-/\_)
+- `MINUS`: The minus/underscore key (-/_)
 - `EQUAL`: The equals/plus key (=/+)
 - `KP_MINUS`: Keypad minus
 - `GRAVE`: Backtick/tilde key (\`/~)
