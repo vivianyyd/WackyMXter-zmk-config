@@ -17,8 +17,8 @@
                 &kp GRAVE      &kp N1      &kp N2      &kp N3      &kp N4     &kp N5         &kp HOME      &kp BSPC       &kp N0      &kp N9      &kp N8      &kp N7     &kp N6         &kp END  
                 &kp TAB        &kp Q       &kp W       &kp E       &kp R      &kp T          &kp EQUAL     &kp BACKSLASH  &kp P       &kp O       &kp I       &kp U      &kp Y          &kp LBKT
                 &mo 1          &kp A       &kp S       &kp D       &kp F      &kp G          &kp MINUS     &kp SQT        &kp SEMI    &kp L       &kp K       &kp J      &kp H          &kp DEL
-                &kp LSHFT      &kp Z       &kp X       &kp C       &kp V      &kp B          &kp CAPS      &kp RSHFT      &kp SLASH   &kp PERIOD  &kp COMMA   &kp M      &kp N          &kp PG_UP
-                &kp LCTRL      &kp C_MUTE  &kp PSCRN   &kp LALT    &kp BSPC   &lt 1 ESC                    &kp ENTER      &kp RCTRL     &kp PG_DN   &kp RALT   &kp SPACE  &kp ENTER
+                &kp LSHFT      &kp Z       &kp X       &kp C       &kp V      &kp B          &kp CAPS      &kp RSHFT      &kp SLASH   &kp PERIOD  &kp COMMA   &kp M      &kp N          &kp RCTRL 
+                &kp LCTRL      &kp C_MUTE  &kp PSCRN   &kp LALT    &kp BSPC   &lt 1 ESC                    &kp ENTER      &kp PG_DN   &kp PG_UP &kp RALT   &kp SPACE  &kp ENTER
                 &kp C_MUTE     &kp LGUI
             >;
 
