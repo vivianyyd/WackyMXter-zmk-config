@@ -3,7 +3,7 @@ id: wackymxter
 name: WACKYMXTER
 type: shield
 url: https://github.com/willwng/WackyMXter
-requires: [xiao_ble]
+requires: [xiao_ble//zmk]
 features:
   - keys
   - encoder
